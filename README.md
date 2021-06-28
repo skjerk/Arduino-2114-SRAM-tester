@@ -17,7 +17,7 @@ The source code has comments to explain what the different parts do, and how to 
 ## Programming the Arduino
 
 To get the sketch into the Arduino, just open the .ino file in the Arduino IDE and select your Board and Port in the Arduino IDE Tools menu.
-The Upload and the program runs.
+Then Upload and the program runs.
 
 It only runs once, so you can push the Reset button on the Arduino to make it run again.
 
@@ -45,6 +45,6 @@ This is how it looks in my setup.
 
 The output is shown in the Arduino IDE Serial Monitor, so you have to keep that open and set to 115200.
 
-Here is the output from a successfull run.
+Here is the output from a successful run.
 
 ![](Console.jpg)
